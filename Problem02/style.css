@@ -1,0 +1,57 @@
+body {
+	background: radial-gradient(circle at top left, white 15%, #0066FF, #0066FF);
+	background-repeat: none;
+	background-size: 1500px 620px;
+}
+
+.main-pic {
+	width: 1444px;
+	height: 739px;
+	margin-left: -10px;
+	margin-top: -10px;
+	margin-bottom: -11px;
+	position: absolute;
+}
+
+.img1 {
+	margin-top: 340px;
+	position: absolute;
+	margin-left: 100px;
+}
+
+.img2 {
+	margin-top: 464px;
+	position: absolute;
+	margin-left: 350px;
+}
+
+.img3 {
+	margin-top: 265px;
+	position: absolute;
+	margin-left: 504px;
+}
+
+.img4 {
+	position: absolute;
+	margin-top: 311px;
+	margin-left: 591px;
+}
+
+.img5 {
+	position: absolute;
+	margin-top: 327px;
+	margin-left: 781px;
+}
+
+@font-face {
+	font-family: SoftUni;
+	src: url('Animated.ttf');
+}
+
+.text1 {
+	position: absolute;
+	font-family: SoftUni;
+	font-size: 3.2em;
+	color: #CCFF00;
+	margin-left: 920px;
+}
